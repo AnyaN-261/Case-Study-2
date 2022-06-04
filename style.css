@@ -1,0 +1,14 @@
+body{
+text-align:center;
+background:radial-gradient(#f0a599,#f0e499, #99f0df, #b399f0, #f099b9)
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 35px;
+    color:black;
+    text-decoration: underline;
+}
+img{
+    width:400px;
+    border: solid 5px #077d25;
+}
